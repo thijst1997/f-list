@@ -1,5 +1,6 @@
 {
-      name:"film",
-       year: int,
-       description:""
+	name:"",
+	year: ,
+	description:"",
+	reason:""
 }
