@@ -1,6 +1,6 @@
 {
-	name:"Treasure Planet",
-	year: 2002,
-	description:"A Disney animated version of "Treasure Island". The only difference is that the film is set in outer space with alien worlds and other galactic wonders.",
-	reason:"Mijn jeugherrineringen."
+	"name":"Treasure Planet",
+	"year": 2002,
+	"description":"A Disney animated version of \"Treasure Island\". The only difference is that the film is set in outer space with alien worlds and other galactic wonders.",
+	"reason":"Mijn jeugherrineringen."
 }

@@ -1,6 +1,11 @@
 {
-	name:"",
-	year: ,
-	description:"",
-	reason:""
+	"name":"",
+	"year":69,
+	"description":"",
+	"reason":"",
+	"review":
+	{
+		"Casper":"",
+		"Thijs":""
+	}
 }
