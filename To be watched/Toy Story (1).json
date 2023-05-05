@@ -1,6 +1,6 @@
 {
-	name:"Toy Story",
-	year: 1995,
-	description:"A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
-	reason:"je speelgoed dat tot leven komt was de droom van elke 6 jarige"
+	"name":"Toy Story",
+	"year": 1995,
+	"description":"A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+	"reason":"je speelgoed dat tot leven komt was de droom van elke 6 jarige"
 }

@@ -1,6 +1,6 @@
 {
-	name:"The Internship",
-	year: ,
-	description:"Film met owen wilson en google, trouwens.",
-	reason:"owen wilson is cool maar google is nog koeler"
+	"name":"The Internship",
+	"year": 2013,
+	"description":"Film met owen wilson en google, trouwens.",
+	"reason":"owen wilson is cool maar google is nog koeler"
 }
